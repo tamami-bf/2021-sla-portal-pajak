@@ -1,0 +1,19 @@
+== Pendahuluan
+
+Dokumen ini adalah _Service Level Agreement_ yang menjadi acuan bagian Teknologi Informasi dalam memberikan layanan kepada seluruh pengguna. Dokumen ini spesifik untuk layanan di Portal Pajak Daerah yang memberikan layanan kepada beberapa tipe pengguna.
+
+== Tujuan
+
+Tujuan dari dibentuknya dokumen _service level agreement_
+
+== Layanan Teknologi Informasi
+
+== Batasan dan Ruang Lingkup
+
+== _Service Level Agreement_ (SLA)
+
+== Layanan Pelanggan dan Eskalasi Masalah
+
+== Keamanan
+
+== Pelaporan dan _Review_ Terhadap Layanan Teknologi Informasi

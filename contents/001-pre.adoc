@@ -1,0 +1,18 @@
+[width="100%",cols="3,^1,10"]
+|======
+| Nama Dokumen | : | Service Level Agreement Layanan Portal Pajak Daerah
+| Nomor Dokumen | : | 0001
+| Versi Dokumen | : | 1.0
+| Dipersiapkan Oleh | : | tamami
+| Tanggal | : | 28 Juni 2021
+|======
+
+*Sejarah Dokumen*
+
+[width="100%",options="header",cols="2,3,5,2,8"]
+|======
+| Versi | Tanggal | Perubahan | Oleh | Catatan
+| 1.0 | 28 Juni 2021 | Dokumen Awal SLA | tamami | 
+|======
+
+<<<

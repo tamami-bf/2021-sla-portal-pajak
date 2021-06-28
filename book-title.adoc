@@ -1,0 +1,26 @@
+:doctype: article
+
+= Service Level Agreement (SLA) - Portal Pajak Daerah
+tamami
+Badan Pendapatan Daerah Kabupaten Brebes
+:reproducible:
+:author: Priyanto Tamami <tamami.oka@gmail.com>
+:source-highlighter: rouge
+:table-caption: Tabel 
+:sourcedir: src
+:includedir: contents
+:imagesdir: images
+:chapter-label: Layanan
+:figure-caption: Gambar 
+:icons: font
+:sectnums:
+:title-page:
+////
+Use this if you create a full cover in one page
+:front-cover-image: image::./images/title_page.png[]
+////
+//:title-logo-image: images/logo-zimera.png
+
+include::{includedir}/001-pre.adoc[]
+
+include::{includedir}/002-isi.adoc[]
