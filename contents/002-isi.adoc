@@ -1,19 +1,73 @@
 == Pendahuluan
 
-Dokumen ini adalah _Service Level Agreement_ yang menjadi acuan bagian Teknologi Informasi dalam memberikan layanan kepada seluruh pengguna. Dokumen ini spesifik untuk layanan di Portal Pajak Daerah yang memberikan layanan kepada beberapa tipe pengguna.
+Dokumen ini adalah _Service Level Agreement_ (SLA) yang menjadi acuan bagian Teknologi Informasi dalam memberikan layanan kepada seluruh pengguna.
 
 == Tujuan
 
-Tujuan dari dibentuknya dokumen _service level agreement_
+Tujuan dari dibentuknya dokumen _service level agreement_ adalah untuk menjaga hubungan antara penyedia layanan teknologi informasi, dalam hal ini bagian yang menangani teknologi informasi di Badan Pendapatan Daerah Kabupaten Brebes dengan pengguna layanan teknologi informasi, baik pegawai internal unit kerja di Badan Pendapatan Daerah Kabupaten Brebes, pegawai eksternal yang membantu pengelolaan dan pemungutan Pajak Daerah Kabupaten Brebes.
+
+Dengan adanya _Service Level Agreement_ ini diharapkan secara tidak langsung meningkatkan kualitas komunikasi antara penyedia layanan teknologi informasi dengan pengguna layanan sehingga bisa saling memahami hak dan tanggung jawabnya masing-masing.
+
+Dengan memberitahukan komitmen, prioritas, tanggung jawab, dan standar nilai, maka diharapkan hal ini akan efektif untuk mengurangi terjadinya konflik dikemudian hari. Jika terjadi terjadi konflik, adanya SLA ini diharapkan menjadi lebih mudah untuk diselesaikan.
 
 == Layanan Teknologi Informasi
 
+Layanan Teknologi Informasi dalam dokumen ini mencakup beberapa layanan yang digunakan langsung oleh pengguna baik dari internal unit organisasi maupun dari eksternal organisasi. 
+
 == Batasan dan Ruang Lingkup
 
-== _Service Level Agreement_ (SLA)
+Batasan dan ruang lingkup dokumen ini berlaku untuk jenis layanan teknologi informasi yang dapat digunakan langsung oleh pengguna, baik yang dibangun oleh bagian yang menangani teknologi informasi dari internal Badan Pendapatan Daerah Kabupaten Brebes, maupun dari eksternal.
+
+== Hak dan Kewajiban
+
+=== Bagian Teknologi Informasi 
+
+. Menjaga kerahasiaan (_confidentiality_), integritas (_integrity_), dan ketersediaan (_availability_) data dan informasi.
+. Melakukan pengadministrasian dan pengelolaan _server_ dan sistem aplikasi yang meliputi :
+.. _Backup_ / pencadangan basis data
+.. Instalasi dan konfigurasi layanan pengguna
+.. Instalasi dan konfigurasi perangkat lunak pendukung layanan pengguna
+.. Pemantauan fungsi seluruh perangkat lunak terpasang
+. Memberikan layanan pendaftaran dan verifikasi pengguna yang belum memiliki _user ID_ (identitas pengguna).
+. Memberikan layanan dukungan teknis langsung kepada pengguna untuk mengatasi kendala teknis pada layanan pengguna
+. Memastikan seluruh komputer pengguna di internal dan _server_ sudah sesuai dengan permintaan atau rekomendasi yang ditetapkan
+. Melakukan monitoring sistem layanan pengguna yang diberikan ke pengguna
+. Melakukan pengembangan dan pemeliharaan aplikasi layanan pengguna
+. Memberikan saran dan rekomendasi pengembangan infrastruktur Teknologi Informasi di Badan Pendapatan Daerah Kabupaten Brebes
+. Memberikan pelayanan instalasi, pembaruan, dan peningkatan layanan pengguna
+. Memberikan rekomendasi penerapan keamanan pada infrastruktur di Badan Pendapatan Daerah Kabupaten Brebes
+. Melakukan koordinasi dengan internal pegawai di Badan Pendapatan Daerah Kabupaten Brebes dalam pengembangan layanan pengguna
+. Memberikan bantuan dukungan teknis dalam menangani permasalahan teknologi informasi, terkhusus pada layanan pengguna
+. Memberikan dukungan dalam bentuk pelatihan penggunaan layanan
+. Memberikan informasi jika akan dilakukan pemeliharaan rutin perangkat yang dapat mengakibatkan tidak tersedianya layanan
+
+=== Pengguna
+
+. Pengguna teknologi informasi memanfaatkan layanan teknologi informasi yang disediakan bagian teknologi informasi di Badan Pendapatan Daerah Kabupaten Brebes.
+. Pengguna dapat menjaga kerahasiaan (_confidentiality_) dan integritas (_integrity_) data yang disediakan, termasuk _username_ dan _password_ yang digunakan.
+. Pengguna dapat melaporkan gangguan melalui _helpdesk_ yang ditetapkan terkait kelemahan (_bug_) dan beberapa fitur yang belum terfasilitasi di aplikasi layanan pengguna
+. Pengguna dapat memberikan akses komputer kepada Bagian Teknologi Informasi untuk melakukan penanganan permasalahan layanan pengguna, termasuk untuk monitoring, evaluasi, dan pengendalian atau rekomendasi yang ditetapkan Bagian Teknologi Informasi.
+
 
 == Layanan Pelanggan dan Eskalasi Masalah
 
-== Keamanan
+Layanan pelanggan (_helpdesk_) dapat dilakukan melalui beberapa kanal komunikasi seperti : 
+
+. Alamat : Bapenda Kab. Brebes, Jl. Veteran no. 11 Brebes
+. Telepon : 0283 - 671 545
+. Surel : bapenda.brebeskab@gmail.com
+
+Layanan pelanggan beroperasi setiap hari kerja selama jam kerja.
+
+Gangguan yang memerlukan keahlian atau perhatian khusus didukung oleh mekanisme eskalasi kepada pihak yang berkompeten dan berwenang, yaitu :
+
+. Eskalasi Fungsional, adalah eskalasi laporan gangguan kepada tim teknis untuk mempercepat proses penanganan laporan insiden yang berkaitan dengan hak teknis.
+. Eskalasi Struktural, adalah eskalasi laporan gangguan kepada pejabat struktural dan pimpinan jika untuk mempercepat penanganan gangguan memerlukan perhatian khusus seperti penambahan sumber daya, koordinasi antar unit kerja internal maupun eksternal, dan sebagainya.
 
 == Pelaporan dan _Review_ Terhadap Layanan Teknologi Informasi
+
+Bagian Teknologi Informasi menyediakan laporan sebagai berikut :
+
+. Perbandingan jumlah gangguan untuk setiap tingkat prioritas dengan bulan sebelumnya
+. Perbandingan jumlah permintaan layanan dengan bulan sebelumnya
+. Rencana kerja untuk memperbaiki layanan pada bulan berikutnya

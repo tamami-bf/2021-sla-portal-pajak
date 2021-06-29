@@ -1,6 +1,6 @@
 :doctype: article
 
-= Service Level Agreement (SLA) - Portal Pajak Daerah
+= Service Level Agreement (SLA) - Layanan Pengguna Teknologi Informasi
 tamami
 Badan Pendapatan Daerah Kabupaten Brebes
 :reproducible:
